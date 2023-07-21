@@ -1,0 +1,12 @@
+body {
+  overflow-x: hidden;
+  background-color: whitesmoke;
+}
+
+.bg-lightblue {
+  background-color: lightblue;
+}
+
+.bg-skyblue {
+  background-color: skyblue;
+}
