@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?= base_url() ?>assets/css/style.css">
 
-    <title>Pengguna</title>
+    <title>Test Project 1</title>
   </head>
   <body>
 
